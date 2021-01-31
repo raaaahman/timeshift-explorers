@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/timeshift-explorers/static/js/main.f158b2ec.chunk.js",
+    "main.js.map": "/timeshift-explorers/static/js/main.f158b2ec.chunk.js.map",
+    "runtime-main.js": "/timeshift-explorers/static/js/runtime-main.b341ff3e.js",
+    "runtime-main.js.map": "/timeshift-explorers/static/js/runtime-main.b341ff3e.js.map",
+    "static/js/2.8c7cfff1.chunk.js": "/timeshift-explorers/static/js/2.8c7cfff1.chunk.js",
+    "static/js/2.8c7cfff1.chunk.js.map": "/timeshift-explorers/static/js/2.8c7cfff1.chunk.js.map",
+    "static/js/3.b79e54d9.chunk.js": "/timeshift-explorers/static/js/3.b79e54d9.chunk.js",
+    "static/js/3.b79e54d9.chunk.js.map": "/timeshift-explorers/static/js/3.b79e54d9.chunk.js.map",
+    "index.html": "/timeshift-explorers/index.html",
+    "static/js/2.8c7cfff1.chunk.js.LICENSE.txt": "/timeshift-explorers/static/js/2.8c7cfff1.chunk.js.LICENSE.txt",
+    "static/media/encounters.92bcb867.csv": "/timeshift-explorers/static/media/encounters.92bcb867.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b341ff3e.js",
+    "static/js/2.8c7cfff1.chunk.js",
+    "static/js/main.f158b2ec.chunk.js"
+  ]
+}
